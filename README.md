@@ -220,3 +220,5 @@ No automated detection system is 100% accurate. Always perform manual verificati
 # 📄 License
 
 This project is open-source and available under the MIT License.
+project link: https://drive.google.com/file/d/1w8lDqehrJ-2QhN_LWahgcjXLzK2oBgr8/view?usp=sharing 
+the project file is very big in so this is the link of google drive 
